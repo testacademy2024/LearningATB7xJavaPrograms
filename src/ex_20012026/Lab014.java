@@ -5,7 +5,7 @@ public class Lab014 {
         System.out.println("Yes");
 
     }
-    public static void main(String args) {//JVM does not recognize this
+    public static void main(Integer args) {//JVM does not recognize this
 
     }
     public static void main(int[] args) {//JVM does not recognize this
