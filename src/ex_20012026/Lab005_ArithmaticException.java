@@ -5,6 +5,6 @@ public class Lab005_ArithmaticException {
         System.out.println(2+2);
         System.out.println(2-2);
         System.out.println(2/2);
-        System.out.println(10/0);//Number divided by zero
+        System.out.println(10/0);//Number divided by zeros
     }
 }
