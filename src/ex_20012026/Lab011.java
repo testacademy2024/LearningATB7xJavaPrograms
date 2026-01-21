@@ -8,4 +8,5 @@ public class Lab011 {
         System.out.print("Hello World");
         System.out.print("Hello World");
     }
+    //
 }

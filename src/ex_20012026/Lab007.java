@@ -6,4 +6,5 @@ public class Lab007 {
         System.out.println("Lab008");//Executing the statements/instructions
         System.out.println("Lab009");
     } //JVM Terminate the program
+    //
 }
