@@ -1,0 +1,14 @@
+package ex_26012026;
+
+import java.util.Scanner;
+
+public class Lab089 {
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Enter your age");
+        byte age=sc.nextByte();
+        System.out.println("Your age is "+age);
+
+
+    }
+}
