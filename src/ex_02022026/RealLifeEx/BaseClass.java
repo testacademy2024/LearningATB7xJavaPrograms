@@ -6,4 +6,10 @@ abstract class BaseClass extends GrandBaseClass{
     // Hide the Functionality of the open and close Browser.
     abstract  String openBrowser(String browserName);
     abstract String closeBrowser(String browserName);
+    @Override
+    void takeScreenshot() {
+        System.out.println("Taking Screenshot in Chrome");
+
+    }
 }
+

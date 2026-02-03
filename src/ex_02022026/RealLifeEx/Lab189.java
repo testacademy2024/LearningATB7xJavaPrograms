@@ -6,6 +6,8 @@ public class Lab189 {
         c1.openBrowser("Chrome");
         c1.closeBrowser("Chrome");
         c1.takeScreenshot();
+        String s = c1.openBrowser("Chrome");
+        System.out.println(s);
         System.out.println("----------");
         FIREFOX f1=new FIREFOX();
         f1.openBrowser("Firefox");

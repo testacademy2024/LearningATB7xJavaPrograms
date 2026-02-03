@@ -13,9 +13,5 @@ public class FIREFOX extends BaseClass{
         return "";
     }
 
-    @Override
-    void takeScreenshot() {
-        System.out.println("Taking Screenshot in Firefox");
 
-    }
 }

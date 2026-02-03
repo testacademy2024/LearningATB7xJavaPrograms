@@ -14,9 +14,6 @@ public class CHROME extends BaseClass{
         return "";
     }
 
-    @Override
-    void takeScreenshot() {
-        System.out.println("Taking Screenshot in Chrome");
 
-    }
+
 }
