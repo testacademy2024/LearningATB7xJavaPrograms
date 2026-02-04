@@ -1,0 +1,8 @@
+package ex_04022026;
+
+public enum PAGES {
+    LOGINPAGE,
+    DASHBOARDPAGE,
+    SUPPORTPAGE,
+    CHATBOTPAGE
+}
