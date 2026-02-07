@@ -14,5 +14,6 @@ public class Lab226 {
             // final -> constant
             // finally -> block of code with the try and catch
             // finalize -> Object class function - threading use case
+        //Error cannot be handled, we can change the code so that error will not come
     }
 }
